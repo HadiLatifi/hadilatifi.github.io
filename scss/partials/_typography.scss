@@ -1,0 +1,20 @@
+// english fonts
+@font-face {
+    font-family: "roboto";
+    src: url('../assets/fonts/Roboto-Light.ttf') format('truetype');
+}
+
+.robot-font{
+    font-family: 'roboto', 'Courier New', Courier, monospace;
+}
+
+.align-right {
+    direction: rtl;
+    text-justify: auto;
+}
+
+.larger-font {
+    font-size: 130% !important;
+}
+
+
